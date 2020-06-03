@@ -26,6 +26,9 @@ const User = {
 			else return null
 		},
 	},
+	password() {
+		return null
+	}
 }
 
 export { User as default }
